@@ -1,0 +1,8 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+mysqlclient
+celery[redis]
+django-celery-beat
+django-celery-results
+gunicorn

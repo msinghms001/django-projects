@@ -1,1 +1,7 @@
 env
+site-cache
+staticfiles
+media
+*.pyc
+*.sqlite3
+*.env
